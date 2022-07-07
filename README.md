@@ -3,7 +3,7 @@
 bootstrap 4.3 adaptive web-page
 
 
-![изображение](https://user-images.githubusercontent.com/99510963/177749411-9cb99d8e-3429-4d4c-862e-60b1e847304c.png)
+![изображение](https://user-images.githubusercontent.com/99510963/177750310-b2137f5e-2e0d-4deb-a95f-76709d816e09.png)
 
 
 ![изображение](https://user-images.githubusercontent.com/99510963/177749358-6a356404-6c8c-48aa-822e-712b71453b50.png)
